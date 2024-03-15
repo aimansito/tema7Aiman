@@ -11,6 +11,6 @@ package com.mycompany.tema7aiman;
 public class Tema7Aiman {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+       //hacer proyecto leer ficheros de vuestros proyectos sacar csv de los productos 20 
     }
 }
